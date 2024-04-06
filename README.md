@@ -25,7 +25,7 @@ cd cobra_sistema
 5. Ejecuta las migraciones para crear las tablas en la base de datos:
 	php artisan migrate
 
-6. Inicia el servidor de desarrollo de Laravel:
+6. Inicia el servidor de desarrollo de Laravel - Puerto 8000:
 	php artisan serve
 
 
